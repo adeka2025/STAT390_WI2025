@@ -1,6 +1,7 @@
 Put whatever you did here, except data files. Don't put any data files (tissue images) here, they are too large for github. You may indicate the data your code uses - provide the OneDrive link to that data, or just mention the path to it.
 
-If you wrote any code (python / QuPath / any other language), comment it well, and put it here, along with a Readme file describing the code. If the code is meant to be useful to other people, put instructions in the Readme file on how to use it. You will get extra credit if many people use your code!
+This week, I first focused on identifying the challenges/gaps in Alyssas patching algorithm to put in the pros/cons table on our website. To identify the pros/cons of her code, I used what we discussed in class, notes from her readme, and comments left on her code. I also reached out to the Thinkers team since they were directly working with the algorithm to see if they had run into any challenges, which I then put in the table. Within the pros/cons table, I filled out the pros column and added information about the dependency on color thresholds and specific parameter values in the cons column. 
 
-If you did literature survey, then put it here as well.
+After our progress presentation on Monday, I changed the title of the page in the header to reflect the current year and take out the quarter. On the homepage, I also added the key questions and the approaches taken by the Lit Surveyors this week to answer the questions. This was based on their presentation on Monday and the links that they provided. After the Thinkers presentation on Wednesday I plan to update their approach to answering the questions on the site. 
 
+As a team, we also came up with a few suggestions for improving work logistics. 
